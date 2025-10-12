@@ -1,6 +1,6 @@
 # SRSlie
 
-本项目代码对应论文正在投稿至 *The Visual Computer* 期刊。  
+本项目代码对应论文正在投稿至 *journal of visual communication and image representation* 期刊。  
 论文接收后，部分模型代码将会开源发布，敬请关注。
 
 本代码部分参考自以下工作
@@ -22,7 +22,7 @@
 
 # SRSlie
 
-This repository contains the code related to a paper currently under review at *The Visual Computer*.  
+This repository contains the code related to a paper currently under review at *journal of visual communication and image representation*.  
 Some parts of the model code will be open-sourced upon acceptance of the paper. Please stay tuned.
 
 ## Code Reference
