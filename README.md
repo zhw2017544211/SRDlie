@@ -1,4 +1,4 @@
-# SRSlie
+# SRDlie
 
 本项目代码对应论文正在投稿至 *Computer Vision and Image Understanding* 期刊。  
 论文接收后，部分模型代码将会开源发布，敬请关注。
@@ -20,7 +20,7 @@
 感谢您的关注与支持！
 
 
-# SRSlie
+# SRDlie
 
 This repository contains the code related to a paper currently under review at *Computer Vision and Image Understanding*.  
 Some parts of the model code will be open-sourced upon acceptance of the paper. Please stay tuned.
