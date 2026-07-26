@@ -1,4 +1,4 @@
-# SRSlie
+# SRDlie
 
 本项目代码对应论文正在投稿至 *journal of visual communication and image representation* 期刊。  
 论文接收后，部分模型代码将会开源发布，敬请关注。
